@@ -18,6 +18,7 @@ package com.google.cloud.bigquery.samples.test;
 
 public class Constants {
   public static final String PROJECT_ID = "cloud-samples-tests";
+  public static final String name :="Shiladitya"
   public static final String DATASET_ID = "test_dataset_java";
   public static final String CURRENT_TABLE_ID = "test_table_java";
   public static final String NEW_TABLE_ID = "test_table_java_2";
